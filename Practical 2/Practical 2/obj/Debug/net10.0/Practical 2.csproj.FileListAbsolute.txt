@@ -1,0 +1,14 @@
+C:\Users\parma\OneDrive\Desktop\.NET Practicals\Practical 2\Practical 2\bin\Debug\net10.0\Practical 2.exe
+C:\Users\parma\OneDrive\Desktop\.NET Practicals\Practical 2\Practical 2\bin\Debug\net10.0\Practical 2.deps.json
+C:\Users\parma\OneDrive\Desktop\.NET Practicals\Practical 2\Practical 2\bin\Debug\net10.0\Practical 2.runtimeconfig.json
+C:\Users\parma\OneDrive\Desktop\.NET Practicals\Practical 2\Practical 2\bin\Debug\net10.0\Practical 2.dll
+C:\Users\parma\OneDrive\Desktop\.NET Practicals\Practical 2\Practical 2\bin\Debug\net10.0\Practical 2.pdb
+C:\Users\parma\OneDrive\Desktop\.NET Practicals\Practical 2\Practical 2\obj\Debug\net10.0\Practical 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parma\OneDrive\Desktop\.NET Practicals\Practical 2\Practical 2\obj\Debug\net10.0\Practical 2.AssemblyInfoInputs.cache
+C:\Users\parma\OneDrive\Desktop\.NET Practicals\Practical 2\Practical 2\obj\Debug\net10.0\Practical 2.AssemblyInfo.cs
+C:\Users\parma\OneDrive\Desktop\.NET Practicals\Practical 2\Practical 2\obj\Debug\net10.0\Practical 2.csproj.CoreCompileInputs.cache
+C:\Users\parma\OneDrive\Desktop\.NET Practicals\Practical 2\Practical 2\obj\Debug\net10.0\Practical 2.dll
+C:\Users\parma\OneDrive\Desktop\.NET Practicals\Practical 2\Practical 2\obj\Debug\net10.0\refint\Practical 2.dll
+C:\Users\parma\OneDrive\Desktop\.NET Practicals\Practical 2\Practical 2\obj\Debug\net10.0\Practical 2.pdb
+C:\Users\parma\OneDrive\Desktop\.NET Practicals\Practical 2\Practical 2\obj\Debug\net10.0\Practical 2.genruntimeconfig.cache
+C:\Users\parma\OneDrive\Desktop\.NET Practicals\Practical 2\Practical 2\obj\Debug\net10.0\ref\Practical 2.dll
